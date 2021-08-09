@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/voluntariadoPracticasIntermedias/static/css/main.a617e044.chunk.css",
-    "main.js": "/voluntariadoPracticasIntermedias/static/js/main.0ee48212.chunk.js",
-    "main.js.map": "/voluntariadoPracticasIntermedias/static/js/main.0ee48212.chunk.js.map",
-    "runtime-main.js": "/voluntariadoPracticasIntermedias/static/js/runtime-main.8821b9c0.js",
-    "runtime-main.js.map": "/voluntariadoPracticasIntermedias/static/js/runtime-main.8821b9c0.js.map",
-    "static/js/2.7db364fb.chunk.js": "/voluntariadoPracticasIntermedias/static/js/2.7db364fb.chunk.js",
-    "static/js/2.7db364fb.chunk.js.map": "/voluntariadoPracticasIntermedias/static/js/2.7db364fb.chunk.js.map",
-    "static/js/3.a2378a41.chunk.js": "/voluntariadoPracticasIntermedias/static/js/3.a2378a41.chunk.js",
-    "static/js/3.a2378a41.chunk.js.map": "/voluntariadoPracticasIntermedias/static/js/3.a2378a41.chunk.js.map",
+    "main.js": "/voluntariadoPracticasIntermedias/static/js/main.d0a5be90.chunk.js",
+    "main.js.map": "/voluntariadoPracticasIntermedias/static/js/main.d0a5be90.chunk.js.map",
+    "runtime-main.js": "/voluntariadoPracticasIntermedias/static/js/runtime-main.2a8fe7ba.js",
+    "runtime-main.js.map": "/voluntariadoPracticasIntermedias/static/js/runtime-main.2a8fe7ba.js.map",
+    "static/css/2.818011ed.chunk.css": "/voluntariadoPracticasIntermedias/static/css/2.818011ed.chunk.css",
+    "static/js/2.7ad626c1.chunk.js": "/voluntariadoPracticasIntermedias/static/js/2.7ad626c1.chunk.js",
+    "static/js/2.7ad626c1.chunk.js.map": "/voluntariadoPracticasIntermedias/static/js/2.7ad626c1.chunk.js.map",
+    "static/js/3.9f900151.chunk.js": "/voluntariadoPracticasIntermedias/static/js/3.9f900151.chunk.js",
+    "static/js/3.9f900151.chunk.js.map": "/voluntariadoPracticasIntermedias/static/js/3.9f900151.chunk.js.map",
     "index.html": "/voluntariadoPracticasIntermedias/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/voluntariadoPracticasIntermedias/static/css/2.818011ed.chunk.css.map",
     "static/css/main.a617e044.chunk.css.map": "/voluntariadoPracticasIntermedias/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.7db364fb.chunk.js.LICENSE.txt": "/voluntariadoPracticasIntermedias/static/js/2.7db364fb.chunk.js.LICENSE.txt"
+    "static/js/2.7ad626c1.chunk.js.LICENSE.txt": "/voluntariadoPracticasIntermedias/static/js/2.7ad626c1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8821b9c0.js",
-    "static/js/2.7db364fb.chunk.js",
+    "static/js/runtime-main.2a8fe7ba.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.7ad626c1.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.0ee48212.chunk.js"
+    "static/js/main.d0a5be90.chunk.js"
   ]
 }
