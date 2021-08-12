@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/voluntariadoPracticasIntermedias/static/css/main.739a73aa.chunk.css",
-    "main.js": "/voluntariadoPracticasIntermedias/static/js/main.6fe0a0b8.chunk.js",
-    "main.js.map": "/voluntariadoPracticasIntermedias/static/js/main.6fe0a0b8.chunk.js.map",
+    "main.js": "/voluntariadoPracticasIntermedias/static/js/main.c4d933b7.chunk.js",
+    "main.js.map": "/voluntariadoPracticasIntermedias/static/js/main.c4d933b7.chunk.js.map",
     "runtime-main.js": "/voluntariadoPracticasIntermedias/static/js/runtime-main.7b1e8618.js",
     "runtime-main.js.map": "/voluntariadoPracticasIntermedias/static/js/runtime-main.7b1e8618.js.map",
     "static/js/2.5fefad53.chunk.js": "/voluntariadoPracticasIntermedias/static/js/2.5fefad53.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7b1e8618.js",
     "static/js/2.5fefad53.chunk.js",
     "static/css/main.739a73aa.chunk.css",
-    "static/js/main.6fe0a0b8.chunk.js"
+    "static/js/main.c4d933b7.chunk.js"
   ]
 }
