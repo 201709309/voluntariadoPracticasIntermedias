@@ -1,6 +1,8 @@
-import React from 'react';
-import '../../App.css';
+import React, { Component } from "react";
+import CardsServicios from "../Servicios/CardsServicios";
 
-export default function Services() {
-  return <h1 className='services'>SERVICES</h1>;
+export default class Services extends Component {
+  render() {
+    return <CardsServicios />;
+  }
 }
